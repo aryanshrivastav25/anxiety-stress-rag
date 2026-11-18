@@ -1,0 +1,365 @@
+[
+  {
+    "question_id": "Q01",
+    "category": "Anxiety",
+    "question": "What is anxiety?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "anxiety definition"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q02",
+    "category": "Anxiety",
+    "question": "What are common symptoms of anxiety?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "anxiety symptoms"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q03",
+    "category": "Anxiety",
+    "question": "What is generalized anxiety disorder?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "generalized anxiety",
+      "worry"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q04",
+    "category": "Anxiety",
+    "question": "How does social anxiety affect daily activities?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "social anxiety"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q05",
+    "category": "Anxiety",
+    "question": "What is a panic attack?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "panic"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q06",
+    "category": "Anxiety",
+    "question": "What is a phobia and how is it different from ordinary fear?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "phobias"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q07",
+    "category": "Anxiety",
+    "question": "What is the difference between normal anxiety and an anxiety disorder?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "anxiety definition"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q08",
+    "category": "Anxiety",
+    "question": "What causes anxiety disorders or increases the risk of them?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "triggers",
+      "risk factors"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q09",
+    "category": "Anxiety",
+    "question": "Why do people with anxiety avoid certain situations?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "avoidance",
+      "phobias"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q10",
+    "category": "Stress",
+    "question": "What is stress?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "stress definition"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q11",
+    "category": "Stress",
+    "question": "How does stress affect the body?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "stress effects"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q12",
+    "category": "Stress",
+    "question": "What are common causes of stress?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "stress triggers"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q13",
+    "category": "Stress",
+    "question": "How can examination pressure contribute to stress?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "academic stress"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q14",
+    "category": "Stress",
+    "question": "How does prolonged stress affect everyday life?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "chronic stress"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q15",
+    "category": "Stress",
+    "question": "What is the difference between stress and anxiety?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "stress vs anxiety"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q16",
+    "category": "Stress",
+    "question": "What are signs that stress is becoming a problem?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "stress effects",
+      "help-seeking"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q17",
+    "category": "Stress",
+    "question": "How can work pressure lead to stress?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "work stress"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q18",
+    "category": "Coping",
+    "question": "What are some grounding techniques?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "grounding"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q19",
+    "category": "Coping",
+    "question": "How can someone manage excessive worrying?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "worry",
+      "coping"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q20",
+    "category": "Coping",
+    "question": "What are practical ways to relax?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "relaxation"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q21",
+    "category": "Coping",
+    "question": "How can sleep and daily routines affect well-being?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "sleep",
+      "routines"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q22",
+    "category": "Coping",
+    "question": "Does exercise help with stress or anxiety?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "exercise",
+      "lifestyle"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q23",
+    "category": "Coping",
+    "question": "How can talking to friends or family help when stressed?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "social support"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q24",
+    "category": "Coping",
+    "question": "What are healthy ways to cope with stress?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "coping"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q25",
+    "category": "Coping",
+    "question": "How can slow breathing help in a stressful moment?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "breathing",
+      "grounding"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q26",
+    "category": "Help-seeking",
+    "question": "When should someone consider seeking professional help?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "help-seeking"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q27",
+    "category": "Help-seeking",
+    "question": "How can someone prepare for a mental-health appointment?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "help-seeking",
+      "appointment"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q28",
+    "category": "Help-seeking",
+    "question": "What kinds of professionals can help with anxiety?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "help-seeking"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q29",
+    "category": "Help-seeking",
+    "question": "What treatments are generally available for anxiety disorders?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "treatment overview"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q30",
+    "category": "Populations",
+    "question": "What might academic stress look like in young people?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "academic stress",
+      "young people"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q31",
+    "category": "Populations",
+    "question": "What information is available for children experiencing stress?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "children"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  },
+  {
+    "question_id": "Q32",
+    "category": "Populations",
+    "question": "How can adults support a stressed child or teenager?",
+    "expected_document_ids": [],
+    "expected_topics": [
+      "children",
+      "social support"
+    ],
+    "notes": "TODO: read the candidates, then list the documents that truly answer this question and set reviewed=true",
+    "reviewed": false
+  }
+]

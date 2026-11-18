@@ -1,0 +1,9 @@
+{
+  "target_tokens": 500,
+  "overlap_tokens": 100,
+  "min_tokens": 100,
+  "max_tokens": 700,
+  "token_counter": "tokenizer:BAAI/bge-m3",
+  "strategy": "structure-aware (headings > paragraphs/lists/tables > sentences > tokens)",
+  "generated": "2026-11-17T13:02:14+00:00"
+}

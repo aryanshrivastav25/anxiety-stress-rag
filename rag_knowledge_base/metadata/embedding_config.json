@@ -1,0 +1,17 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "model_revision": "Unknown",
+  "embedding_dimension": 1024,
+  "normalized": true,
+  "similarity_metric": "cosine (vectors L2-normalised)",
+  "batch_size": 32,
+  "max_seq_length": 8192,
+  "chunks_exceeding_max_seq": 0,
+  "query_prefix": "",
+  "doc_prefix": "",
+  "embedded_text_template": "{document_title} - {section_heading}\\n{chunk_text}",
+  "n_chunks": 119,
+  "n_newly_embedded": 119,
+  "date_generated": "2026-11-17T13:19:53+00:00",
+  "collection_name": "anxiety_stress_knowledge_base"
+}

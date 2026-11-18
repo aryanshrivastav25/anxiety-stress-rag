@@ -1,0 +1,108 @@
+url,title,organization,category,reason,date_logged
+https://cdn.who.int/media/docs/default-source/mental-health/9789240003910-ben.pdf?sfvrsn=9d5c0ba7_7,Doing What Matters in Times of Stress (WHO) (PDF),WHO,Excluded — inaccessible,Blocked by robots.txt (not circumvented),2026-11-13
+https://www.nimh.nih.gov/news/science-updates/anxiety-disorders,"Science updates NIMH news about anxiety disorders, including press releases and highlights on the latest research findings.",NIMH,Excluded — irrelevant,Navigation/news/admin/social/media link,2026-11-13
+https://www.nimh.nih.gov/health/trials,Clinical Trials – Information for Participants,NIMH,Excluded — clinical/training material,Treatment/medication/professional material outside chatbot scope (override manually if public-facing overview needed),2026-11-13
+"https://www.clinicaltrials.gov/search?term=anxiety&aggFilters=funderType:nih,status:rec%20not",Clinicaltrials.gov: Current Studies on Anxiety Disorders,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://findtreatment.gov/,locate mental health services,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://988lifeline.org/,988 Suicide & Crisis Lifeline,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://chat.988lifeline.org/,988lifeline.org,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.nlm.nih.gov/medlineplus/anxiety.html,Anxiety,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.nimh.nih.gov/health/publications/espanol/trastorno-de-ansiedad-generalizada-cuando-no-se-pueden-controlar-las-preocupaciones-new,En español,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nimh.nih.gov/health/topics/psychotherapies,psychotherapy,NIMH,Excluded — clinical/training material,Treatment/medication/professional material outside chatbot scope (override manually if public-facing overview needed),2026-11-13
+https://www.nimh.nih.gov/health/topics/mental-health-medications,mental health medications,NIMH,Excluded — clinical/training material,Treatment/medication/professional material outside chatbot scope (override manually if public-facing overview needed),2026-11-13
+https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm,U.S. Food and Drug Administration (FDA) website,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider,tips for talking with a health care provider,NIMH,Excluded — clinical/training material,Treatment/medication/professional material outside chatbot scope (override manually if public-facing overview needed),2026-11-13
+https://www.nimh.nih.gov/health,mental health disorders and topics,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://medlineplus.gov/,National Library of Medicine’s MedlinePlus,MEDLINEPLUS,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nimh.nih.gov/site-info/citing-nimh-publications-and-webpages,cite the National Institute of Mental Health,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nimh.nih.gov/site-info/policies,Read our copyright policy,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nimh.nih.gov/health/publications/espanol/trastorno-de-ansiedad-social-mas-alla-de-la-simple-timidez,En español,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nimh.nih.gov/health/topics/espanol/el-cuidado-de-su-salud-mental/el-cuidado-de-su-salud-mental,Esta página también está disponible en español,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits,healthy practices for your mind and body,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://findtreatment.samhsa.gov/,locating mental health services,SAMHSA,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://988lifeline.org/chat/,988lifeline.org,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide,warning signs of suicide,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nimh.nih.gov/health/publications/brochures-and-fact-sheets-in-english,More,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.nih.gov/health-information/emotional-wellness-toolkit,emotional health,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.nih.gov/health-information/social-wellness-toolkit,social health,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://medlineplus.gov/howtoimprovementalhealth.html,MedlinePlus: How to Improve Mental Health,MEDLINEPLUS,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.cdc.gov/emotional-wellbeing/index.htm,CDC: Emotional Well-Being,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.veterantraining.va.gov/,VA Office of Mental Health: Veteran Training,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.nimh.nih.gov/health/publications/espanol/estoy-tan-estresado,En español,NIMH,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html,Anxiety and Depression in Children,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.who.int/publications/i/item/9789240031029,Comprehensive mental health action plan 2013–2030,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.who.int/publications/i/item/WHO-MSD-MER-18.5,Problem Management Plus (PM+) manual,WHO,Excluded — clinical/training material,Treatment/medication/professional material outside chatbot scope (override manually if public-facing overview needed),2026-11-13
+https://vizhub.healthdata.org/gbd-results/,https://vizhub.healthdata.org/gbd-results/,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://www.who.int/news-room/fact-sheets/detail/depression,Depressive disorder (depression) 11 September 2026,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://www.who.int/news-room/fact-sheets/detail/suicide,Suicide 3 November 2026,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/server/api/core/bitstreams/65bb7c04-5180-4773-a0d8-0d5be2cc35a0/content,Download (3.2 MB),WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstreams/b4b80e91-644a-4d71-99cd-1b10cb1593dc/download,Amharic,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240011670-ara.pdf,Arabic,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/HV2E9PR2A5/album/N7VG7?viewIndex=0,https://who.canto.global/b/KCTU3,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-crp.pdf,Arabic - Juba,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/handle/10665/351594,Armenian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/O3BLOH832L/album/MNC52?viewIndex=0,https://who.canto.global/b/VH6TI,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://who.canto.global/v/LHIHUKAJBG/album/Q9S8N?viewIndex=0,https://who.canto.global/b/OVE24,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-chi.pdf,Chinese,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/OCDC6TTAL4/album/PLR0T?viewIndex=0,https://who.canto.global/b/UQ8KS,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-traditional-chi.pdf?sequence=575&isAllowed=y,Chinese - Traditional,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/UD9AES834M/album/QPDOP?viewIndex=0,https://who.canto.global/b/HR4QL,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://iris.who.int/handle/10665/382330,Czech,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/b/HFEQ9,https://who.canto.global/b/HFEQ9,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://who.canto.global/v/RUKHQS06U2/album/IHHPE?viewIndex=0,https://who.canto.global/b/UCG20,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://iris.paho.org/handle/10665.2/54659,English (adapted for the Caribbean),OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240011670-eng.pdf,English (with images adapted for South Sudan),WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-prs.pdf,Dari,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/handle/10665/355276,Estonian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789645043955-per.pdf,Farsi,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/NK3DDN9RT0/album/H844N?viewIndex=0,https://who.canto.global/b/Q3UT3,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-fin.pdf,Finnish,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/336217/9789240009646-fre.pdf,French,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/N902VGOVVT/album/VLVU4?viewIndex=0,https://who.canto.global/b/QKVJ5,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-ger.pdf,German,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/JVLM0SC96P/album/SHQDP?viewIndex=0,https://who.canto.global/b/LDH6A,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-geo.pdf,Georgian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-gre.pdf,Greek,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-hin.pdf,Hindi,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/handle/10665/335917,Hungarian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/HL7F1O6S3F/album/U7BUQ?viewIndex=0,https://who.canto.global/b/N32NB,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://iris.who.int/bitstreams/48674e93-c058-4cac-b5c2-64bbc5b3b262/download,Icelandic,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/handle/10665/370361,Indonesian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-ita.pdf,Italian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/SUPNRQGRES/album/QGU7H?viewIndex=0,https://who.canto.global/b/JCOO2,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-khm.pdf,Khmer,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9791185324609-kor.pdf?sequence=271&isAllowed=y,Korean,WHO,Excluded — country-specific,US-specific service (not applicable to Indian users),2026-11-13
+https://who.canto.global/v/UKF18G194S/album/LQK8O?viewIndex=0,https://who.canto.global/b/H2AH3,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-jpn.pdf,Japanese,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-lit.pdf,Lithuanian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/QU19JGL0U4/album/NG5PP?viewIndex=0,https://who.canto.global/b/SDSQ5,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-may.pdf,Malay,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/L7NIMPKORR/album/IRO2S?viewIndex=0,https://who.canto.global/b/RLIRC,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-mon.pdf,Mongolian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-nep.pdf,Nepali,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/server/api/core/bitstreams/e21b5606-e8df-474a-9eb7-50b2730b12a2/content,Norwegian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstream/handle/10665/366709/WHO-EURO-2023-361-40096-68014-pol.pdf,Polish,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/GOFIBNOGDC/album/GAL8S?viewIndex=0,https://who.canto.global/b/N6AQH,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-por.pdf,Portuguese,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9786588074497-por.pdf?sequence=1015&isAllowed=y,Portuguese (adapted for Brazil),WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/T2L38T4L3P/album/RKPII?viewIndex=0,https://who.canto.global/b/GGGJ3,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/handle/10665/336712,Romanian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/NV53NMDDDF/album/GH9RT?viewIndex=0,https://who.canto.global/b/PD0KD,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240009547-rus.pdf,Russian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/I6RCULTCPL/album/SQS47?viewIndex=0,https://who.canto.global/b/LKMT4,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/336218/9789240009561-spa.pdf,Spanish,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/UGDLKTP80D/album/R2I5E?viewIndex=0,https://who.canto.global/b/GU95V,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-slo.pdf,Slovak,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-swa.pdf,Swahili,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/IE478OHUA3/album/S08UH?viewIndex=0,https://who.canto.global/b/LQ3N2,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-swe.pdf,Swedish,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://iris.who.int/bitstream/handle/10665/331901/9789240003910-tir.pdf,Tigrinya,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-ton.pdf,Tongan,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/handle/10665/333917,Turkish,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/PO3UFJOCAC/album/NC4E5?viewIndex=0,https://who.canto.global/b/S7VEH,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/handle/10665/339150,Ukrainian,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://who.canto.global/v/ILQN8T6EIO/album/S3MGN?viewIndex=0,https://who.canto.global/b/L3M72,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-urd.pdf,Urdu,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-vie.pdf,Vietnamese,WHO,Excluded — irrelevant,No anxiety/stress/coping/help-seeking keywords,2026-11-13
+https://creativecommons.org/licenses/by-nc-sa/3.0/igo/deed.en,,OTHER,Excluded — irrelevant,Domain not in authoritative allow-list,2026-11-13
+https://cdn.who.int/media/docs/default-source/physical-activity/dwm-package-guide-v1-0.pdf?download=true,WHO Doing What Matters in Times of Stress Chatbot Implementation Guide,WHO,Excluded — inaccessible,Blocked by robots.txt (not circumvented),2026-11-14

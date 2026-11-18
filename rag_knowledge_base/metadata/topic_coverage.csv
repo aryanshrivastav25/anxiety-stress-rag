@@ -1,0 +1,21 @@
+topic,covered,documents,coverage_strength,additional_source_needed,note
+1 Definition of anxiety,Yes,NIMH_004;WHO_001;NIMH_002;NIMH_007;NIMH_007_PDF,strong,Probably not,Keyword heuristic - verify by reading
+2 Definition of stress,Yes,WHO_002;WHO_003;NIMH_007;NIMH_007_PDF,strong,Probably not,Keyword heuristic - verify by reading
+3 Stress vs anxiety,Yes,NIMH_007;NIMH_007_PDF;NIMH_006;NIMH_002;NIMH_004;WHO_001,strong,Probably not,Keyword heuristic - verify by reading
+4 Symptoms of anxiety,Yes,NIMH_003;NIMH_002;NIMH_004;WHO_001;NIMH_008;NIMH_001;NIMH_005;NIMH_007;NIMH_007_PDF;WHO_002;WHO_004,strong,Probably not,Keyword heuristic - verify by reading
+5 Physical/emotional/behavioural effects,Yes,NIMH_003;WHO_003;WHO_001;NIMH_002;NIMH_004;NIMH_008;WHO_002;NIMH_006;WHO_004;NIMH_005;NIMH_007;NIMH_007_PDF,strong,Probably not,Keyword heuristic - verify by reading
+6 Triggers/contributing factors,Yes,WHO_003;NIMH_004;NIMH_002;WHO_001;NIMH_003;NIMH_007;NIMH_007_PDF;WHO_002;NIMH_005;NIMH_008;WHO_004,strong,Probably not,Keyword heuristic - verify by reading
+7 GAD / excessive worry,Yes,NIMH_002;WHO_001;NIMH_003;NIMH_001;WHO_003,strong,Probably not,Keyword heuristic - verify by reading
+8 Panic attacks/disorder,Yes,NIMH_003;WHO_001,strong,Probably not,Keyword heuristic - verify by reading
+9 Social anxiety,Yes,NIMH_004;NIMH_005,strong,Probably not,Keyword heuristic - verify by reading
+10 Phobias/avoidance,Yes,NIMH_005;NIMH_004;NIMH_003;WHO_001;WHO_003;NIMH_007;NIMH_007_PDF,strong,Probably not,Keyword heuristic - verify by reading
+11 Academic/exam stress,Yes,WHO_003;NIMH_008;WHO_004;NIMH_002;NIMH_004;NIMH_001;WHO_001;NIMH_003;WHO_002,strong,Probably not,Keyword heuristic - verify by reading
+12 Work-related stress,Yes,WHO_004,strong,Probably not,Keyword heuristic - verify by reading
+13 Coping/self-help,Yes,WHO_003;WHO_001;WHO_002;NIMH_006;NIMH_007;NIMH_007_PDF;NIMH_008,strong,Probably not,Keyword heuristic - verify by reading
+14 Grounding/relaxation,Yes,WHO_003;WHO_001;NIMH_006;NIMH_002;NIMH_003;NIMH_005;NIMH_007;NIMH_007_PDF;NIMH_008;WHO_002;NIMH_004,strong,Probably not,Keyword heuristic - verify by reading
+15 Sleep/routines,Yes,WHO_002;WHO_003;NIMH_002;NIMH_006;NIMH_007;NIMH_007_PDF;NIMH_003;NIMH_004;WHO_001,strong,Probably not,Keyword heuristic - verify by reading
+16 Exercise/lifestyle,Yes,WHO_003;WHO_002;NIMH_006;WHO_001;NIMH_003;NIMH_004;NIMH_002;NIMH_007;NIMH_007_PDF;NIMH_005,strong,Probably not,Keyword heuristic - verify by reading
+17 Social support,Yes,WHO_003;NIMH_008;NIMH_002;NIMH_004;NIMH_003;WHO_002;NIMH_006;NIMH_001;NIMH_007;NIMH_007_PDF;WHO_001,strong,Probably not,Keyword heuristic - verify by reading
+18 When to seek professional help,Yes,NIMH_004;NIMH_002;NIMH_003;NIMH_008;NIMH_005;NIMH_001;NIMH_006;NIMH_007;NIMH_007_PDF,strong,Probably not,Keyword heuristic - verify by reading
+19 Age-specific,Yes,NIMH_001;NIMH_002;WHO_001;WHO_003;NIMH_004;NIMH_006;NIMH_007;NIMH_007_PDF;NIMH_008,strong,Probably not,Keyword heuristic - verify by reading
+20 India-specific resources,No,,missing,Likely,Keyword heuristic - verify by reading

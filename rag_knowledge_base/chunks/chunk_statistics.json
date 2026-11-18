@@ -1,0 +1,50 @@
+{
+  "n_documents": 12,
+  "n_chunks": 119,
+  "chunks_per_document": {
+    "NIMH_001": 6,
+    "NIMH_002": 11,
+    "NIMH_003": 10,
+    "NIMH_004": 11,
+    "NIMH_005": 4,
+    "NIMH_006": 2,
+    "NIMH_007": 3,
+    "NIMH_008": 6,
+    "WHO_001": 7,
+    "WHO_002": 2,
+    "WHO_003": 48,
+    "WHO_004": 9
+  },
+  "tokens": {
+    "mean": 342.9,
+    "median": 369,
+    "min": 15,
+    "max": 696
+  },
+  "chars": {
+    "mean": 1414.0,
+    "min": 69,
+    "max": 2999
+  },
+  "token_distribution": {
+    "0-99": 3,
+    "100-199": 21,
+    "200-299": 22,
+    "300-399": 20,
+    "400-499": 47,
+    "500-599": 3,
+    "600-699": 3
+  },
+  "documents_with_small_or_large_chunks": {
+    "NIMH_001": {
+      "n_chunks": 6,
+      "min": 15,
+      "max": 281,
+      "mean": 127.2,
+      "n_small": 3,
+      "n_large": 0
+    }
+  },
+  "target_tokens": 500,
+  "token_counter": "tokenizer:BAAI/bge-m3"
+}
