@@ -116,13 +116,12 @@ Only retain files and folders in this example that actually exist in your reposi
 
 ```bash
 git clone https://github.com/aryanshrivastav25/anxiety-stress-rag
-cd YOUR-REPO
+cd https://github.com/aryanshrivastav25/anxiety-stress-rag
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Replace `YOUR-REPO` with the actual repository name. Ensure `requirements.txt` is committed before using these instructions.
 
 ### Document processing and evaluation
 
