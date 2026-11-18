@@ -115,7 +115,7 @@ Only retain files and folders in this example that actually exist in your reposi
 ### Installation
 
 ```bash
-git clone https://github.com/aryanshrivastav25/YOUR-REPO.git
+git clone https://github.com/aryanshrivastav25/anxiety-stress-rag
 cd YOUR-REPO
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
